@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Jsoup - kotlin</string>
+    <string name="new_content">new content</string>
+    <string name="movie_name">movie name</string>
+</resources>
